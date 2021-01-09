@@ -88,6 +88,14 @@ style_mono_accent(
   ".card.switch.right" = list(
   "float" = "right",
   "text-align" = "left"
+  ),
+  ".inverse .takeaways" = list(
+      "position" = "absolute",
+      "width" = "65%",
+      "bottom" = "60px",
+      "right" = "20px",
+      "padding-right" = "4em",
+      "text-align" = "left"
   )
   # "div.card-switch ~ div.card1" = list(
   # "margin-top" = "0"
@@ -109,11 +117,11 @@ Welcome! Glad your here. These slides should mostly be self explanatory, but som
 
 ???
 
-Hallo! Ik ben Matthijs de Zwaan, en ik werk bij de universiteitsbibliotheek van de VU. Zoals je merkt, zijn de slides in het Engels, maar mijn uitleg in het Nederlands.
+Hallo! Ik ben Matthijs de Zwaan, en ik werk bij de universiteitsbibliotheek van de VU. Zoals je ondertussen wel door zal hebben, zijn de slides in het Engels, maar is mijn uitleg in het Nederlands.
 
-Deze les gaat over het vinden van informatie voor werkstukken die je tijdens je studie zult schrijven. Informatie is in principe alles dat bruikbaar kan zijn om je eigen werk te onderbouwen. Zulke informatie vindt je in academische artikelen, maar ook in bijvoorbeeld kranten, vaktijdschriften, of *social media*. 
+Deze les gaat over het vinden van informatie voor werkstukken die je tijdens je studie zult schrijven. Zulke informatie vindt je in academische artikelen, maar ook in bijvoorbeeld kranten, vaktijdschriften, of *social media*. 
 
-We beginnen met een aantal meer algemene onderwerpen. Allereerst de vraag waarom je eigenlijk uberhaupt informatie nodig hebt voor een werkstuk. Daarna gaan we door met het verkennen van verschillende bronnen van informatie, en welke aspecten van belang zijn om te bepalen waarom je een bepaalde bron wel of ziet wilt gebruiken. Daarna wordt het meer praktisch, en bespreken we een aantal zoekmachines die je kan gebruiken om te zoeken naar informatie, en welke methodes je kan gebruiken om te zoeken.  
+We zullen beginnen met een aantal meer algemene onderwerpen. Allereerst de vraag waarom je eigenlijk uberhaupt informatie nodig hebt voor een werkstuk. Daarna gaan we door met het verkennen van verschillende bronnen van informatie, en welke aspecten van belang zijn om te bepalen waarom je een bepaalde bron wel of niet wilt gebruiken. Daarna wordt het meer praktisch, en bespreken we een aantal zoekmachines die je kan gebruiken om te zoeken naar informatie, en welke methodes je kan gebruiken om te zoeken.  
 
 ---
 class:inverse
@@ -140,16 +148,23 @@ class:inverse
 ???
 Informatie speelt een belangrijke rol bij de onderbouwing van academisch werk. Er wordt daarom ook van je verwacht dat je gedegen zoekt naar bronnen van informatie, en ook goed documenteert welke bronnen je uiteindelijk gebruikt.
 
-Drie belangrijke rollen voor informatie worden hier genoemd:
-1. Je kan informatie gebruiken om de context van je werk te schetsen. Aan welke discussies draagt je werk bij?
-2. Je kan informatie ook gebruiken om te beargumenteren waarom het werk van belang is. Waarom is het belangrijk om een antwoord te vinden op je onderzoeksvraag? Wat schieten we daarmee op?
-3. Ten derde kun je informatie gebruiken om te laten zien wat jouw werk toevoegt. Dat kan je natuurlijk alleen overtuigend doen als je eerst laat zien wat er eerder al gedaan is.
+Ik noem hier drie belangrijke rollen voor informatie.
 
-Informatie is niet alrijd per se nodig. Je kan je voorstellen dat je het belang van je onderzoek beargumenteert zonder te refereren aan ander materiaal. Maar waarom zou je het wiel opnieuw uitvinden? Natuurlijk kost het tijd om informatie te zoeken en te verwerken, maar ik ben er van overtuigd dat het meer tijd kost om alle argumenten en discussies zelf te bedenken. Bovendien is je verhaal waarschijnlijk overtuigender als je kan refereren aan betrouwbare bronnen.
+Je kan informatie gebruiken om de context van je werk te schetsen. Aan welke discussies draagt je werk bij? 
+
+Je kan informatie ook gebruiken om te motiveren waarom je je onderzoek doet. Waarom is het belangrijk om een antwoord te vinden op je onderzoeksvraag? Wat schieten we daarmee op?
+
+Ten derde kun je informatie gebruiken om te laten zien wat jouw werk toevoegt. Dat kan je natuurlijk alleen overtuigend doen als je eerst laat zien wat er eerder al gedaan is.
+
+Informatie is niet altijd per se nodig. Je kan je voorstellen dat je het belang van je onderzoek beargumenteert zonder te refereren aan ander materiaal. Maar waarom zou je het wiel opnieuw uitvinden? Natuurlijk kost het tijd om informatie te zoeken en te verwerken, maar ik ben er van overtuigd dat het meer tijd kost om alle argumenten en discussies zelf te bedenken. Bovendien is je verhaal waarschijnlijk overtuigender als je kan refereren aan betrouwbare bronnen.
 ---
 class:inverse
 
 # Where can you find information?
+
+<!-- <div class="takeaways"> -->
+<!-- <p>Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt is, hangt af van de vraag die je probeert te beantwoorden, en welke informatie je zoekt. Ook voor academisch werk kan je heel goed putten uit niet-academische bronnen, als je je maar bewust bent van de beperkingen.</p> -->
+<!-- </div> -->
 ???
 Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt is, hangt af van de vraag die je probeert te beantwoorden, en welke informatie je zoekt. Ook voor academisch werk kan je heel goed putten uit niet-academische bronnen, als je je maar bewust bent van de beperkingen.
 ---
@@ -181,11 +196,11 @@ Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt
 </div>
 
 ???
-Er zitten veel verschillende aspecten aan informatie. Twee belangrijke aspecten worden hier kort besproken.
+Er zitten veel verschillende aspecten aan informatie, teveel om hier te behandelen. Twee belangrijke aspecten worden hier kort besproken.
 
-Ten eerste is er de vraag van betrouwbaarheid versus tijdigheid. Het kost tijd om informatie te verifieren. Daarom is er een afweging tussen tijdige informatie (dus dat wil zeggen, informatie die snel beschikbaar is), en betrouwbare informatie (dat wil zeggen, informatie die juist is). Relatief eenvoudige informatie is makkelijk te checken, en kan daarom zowel tijdig als betrouwbaar zijn. Feitelijke informatie over onomstreden onderwerpen is hier een voorbeeld van. Maar voor meer complexe informatie, zoals academische studies, duurt het vaak langer voordat de informatie beschikbaar is. In sommige gevallen worden studies zelfs pas gepubliceerd jaren nadat ze uitgevoerd zijn.
+Ten eerste is er de vraag van betrouwbaarheid versus tijdigheid. Het kost tijd om informatie te verifieren. Daarom is er een afweging tussen tijdige informatie (dat wil zeggen, informatie die snel beschikbaar is), en betrouwbare informatie (dat wil zeggen, informatie die juist is). Relatief eenvoudige informatie is makkelijk te checken, en kan daarom zowel snel beschikbaar als betrouwbaar zijn. Feitelijke informatie over onomstreden onderwerpen is hier een voorbeeld van. Maar voor meer complexe informatie, zoals academisch onderzoek, duurt het vaak langer voordat de informatie beschikbaar is. In sommige gevallen worden onderzoeken zelfs pas gepubliceerd jaren nadat ze uitgevoerd zijn.
 
-Ten tweede is er de vraag van objectiviteit. Met welk doel wordt de informatie beschikbaar gemaakt? Wil de auteur informeren, of overtuigen? Wat voor vooroordelen of "bias" komt daaruit voort? Dit is vaak een lastige kwestie: vaak zijn auteurs zich zelf niet goed bewust van hun vooroordelen, en wordt daardoor bepaalde informatie onbewust achter gehouden. Het zou zelfs jou kunnen overkomen...
+Ten tweede is er de vraag van objectiviteit. Met welk doel wordt de informatie beschikbaar gemaakt? Wil de auteur informeren, of overtuigen? Wat voor vooroordelen of "bias" komt daaruit voort? Dit is vaak een lastige kwestie: vaak zijn auteurs zich zelf niet goed bewust van hun vooroordelen, en wordt daardoor bepaalde informatie onbewust niet bij het onderzoek betrokken. Het zou zelfs jou kunnen overkomen...
 ---
 
 # Where can you find information?
@@ -226,7 +241,7 @@ Ten tweede is er de vraag van objectiviteit. Met welk doel wordt de informatie b
 </div>
 
 ???
-Tot nu toe was dit een vrij abstract verhaal. Hier worden enkele meer praktische tips gegeven voor bronnen die je voor je werk kan gebruiken.
+Tot nu toe was dit een vrij abstract verhaal. Hier worden een paar meer praktische tips gegeven voor bronnen die je voor je werk kan gebruiken.
 ---
 
 class:inverse
@@ -412,7 +427,7 @@ class:inverse
 
 In dit deel gaan we aan de slag met verschillende zoekmethodes die je kan gebruiken om te zoeken naar literatuur. De principes van die methode worden bij bijna elke zoekmachine gebruikt, al kunnen er verschillen zijn in de details.
 
-Het doel van deze zoekmethodes is uiteindelijk om zoveel mogelijk relevante literatuur te vinden, maar ook om te voorkomen dat je veel onbruikbare resultaten terugkrijgt. Dat is bijvoorbeeld het nadeel van simpelweg je onderwerp intypen in Google: je krijgt erg veel resultaten, maar een aanzienlijk deel daarvan is niet bruikbaar voor je werkstuk. De tijd die je dan kwijt bent aan het uitpluizen van wat bruikbaar is, en wat niet, kan je dan beter investeren in het opstellen van een goede zoekvraag in een zoekmachine die gespecialiseerd is in het type informatie dat je wilt hebben. Zoals Scopus.
+Het doel van deze zoekmethodes is uiteindelijk om zoveel mogelijk relevante literatuur te vinden, maar daarbij voorkomt dat je veel onbruikbare resultaten terugkrijgt. Dat is bijvoorbeeld het nadeel van simpelweg je onderwerp intypen in Google: je krijgt wel erg veel resultaten, maar een aanzienlijk deel daarvan is niet bruikbaar voor je werkstuk. De tijd die je dan kwijt bent aan het uitpluizen van wat bruikbaar is, en wat niet, kan je dan beter investeren in het opstellen van een goede zoekvraag in een zoekmachine die gespecialiseerd is in het type informatie dat je wilt hebben. Zoals Scopus.
 
 ---
 layout: true
@@ -520,13 +535,13 @@ name: snowball
 
 ???
 
-Een tweede methode is de zogenaamde *snow ball* methode. Het idee hierachter is dat werken die aan elkaar refereren, waarschijnlijk relevant zijn voor het onderwerp waarover wordt geschreven. Als je dus een artikelter hebt gevonden dat relevant is voor jouw werkstuk, kan je kijken welke artikelen in dat artikel werden gebruikt. Dat is de *backward snow ball*; je kijkt immers terug in de tijd naar artikelen die al geschreven waren toen het onderzoek werd uitgevoerd.
+Een tweede methode is de zogenaamde *snow ball* methode. Het idee hierachter is dat werken die aan elkaar refereren, waarschijnlijk allebei relevant zijn voor het onderwerp waarover wordt geschreven. Als je dus een artikel hebt gevonden dat relevant is voor jouw werkstuk, kan je kijken welke artikelen in dat artikel werden gebruikt. Dat is de *backward snow ball*; je kijkt immers terug in de tijd naar artikelen die al geschreven waren toen het onderzoek werd uitgevoerd.
 
-Door de digitalisering van referentie lijsten kun je nu ook vooruit kijken, de *forward snowball*. In Google Scholar en Scopus heb je bijvoorbeeld bij veel artikelen een "Cited by" knop. In plaats van te kijken naar de referenties in een bepaald artikel, kan je nu kijken welke artikelen gerefereerd hebben aan dat stuk. Dat is erg handig als je bijvoorbeeld een invloedrijk artikel van tien jaar oud hebt gevonden. Je kan dan snel bekijken welke meer recente artikelen dat eerdere onderzoek gebruikt (en dus geciteerd) hebben. 
+Door de digitalisering van referentielijsten kun je nu ook in de tijd vooruit kijken, de *forward snowball*. In Google Scholar en Scopus heb je bijvoorbeeld bij veel artikelen een "Cited by" knop, of iets soortgelijks. In plaats van te kijken naar de referenties in een bepaald artikel, kan je nu kijken welke artikelen gerefereerd hebben aan dat stuk. Dat is erg handig als je bijvoorbeeld een invloedrijk artikel van vijftien jaar geleden hebt gevonden. Je kan dan snel bekijken welke meer recente artikelen dat eerdere onderzoek gebruikt hebben. 
 
-De sneeuwbal methode kan erg handig zijn, maar er is een gevaar. Als je niet goed weet waar je naar op zoek bent, kun je snel verdwaald raken in de hoeveelheid referenties. Een academisch artikel heeft al snel dertig referenties. Na twee 'generaties' van referenties zit je dan al op 30x30=900 referenties! Daarnaast bestaat er ook een gevaar dat je vast komt te zitten in een bepaalde school van academici die vooral aan elkaar refereren, waardoor je belangrijke informatie van buiten die denkschool mist.
+De sneeuwbal methode kan erg handig zijn, maar er is wel een gevaar. Als je niet goed weet waar je naar op zoek bent, kun je snel verdwaald raken in de hoeveelheid referenties. Een academisch artikel heeft al snel dertig referenties. Na twee 'generaties' van referenties zit je dan al op 30x30=900 referenties! Daarnaast bestaat er ook een gevaar voor tunnelvisie. Je kan vast komt te zitten in een bepaalde school van academici die vooral aan elkaar refereren, waardoor je belangrijke informatie van buiten die denkschool mist.
 
-Wees dus voorzivhtig met het gebruik van de snow ball methode. Je kan het bijvoorbeeld gebruiken om te checken of je geen belangrijke artikelen hebt gemist bij het zoeken met *building blocks*
+Wees dus voorzichtig met het gebruik van de snow ball methode. Je kan het bijvoorbeeld gebruiken om te checken of je geen belangrijke artikelen hebt gemist bij het zoeken met *building blocks*
 ---
 template:snowball
 <div style="position:absolute;width:100%; display:flex; justify-content:center;">
@@ -550,9 +565,9 @@ template: snowball
 <div>
 
 ???
-Je bent vrij om je eigen workflow te ontwikkelen, maar dit schema is misschien een goed startpunt. Begin met de building blocks methode. Scan je resultaten op relevantie. Meestal is het al voldoende om het abstract en de inleiding te lezen. Gebruik de snow ball methode voor enkele van de meest relevante artikelen om te checken of je misschien iets belangrijks gemist hebt. Scan je nieuwe resulatten opnieuw op relevantie, en ga daarna pas echt volledig lezen. Deze workflow volgt de 'volle' pijlen in het diagram.
+Je bent natuurlijke vrij om je eigen workflow te ontwikkelen, maar dit schema is misschien een goed startpunt. Begin met de building blocks methode. Scan vervolgens je resultaten op relevantie. Meestal is het al voldoende om het abstract en misschien nog de inleiding te lezen. Gebruik de snow ball methode voor enkele van de meest relevante artikelen om te checken of je misschien iets belangrijks gemist hebt. Scan je nieuwe resulaten opnieuw op relevantie, en lees daarna pas het volledige artikel goed. Deze workflow volgt de 'doorgetrokken' pijlen in het diagram.
 
-Het is altijd mogelijk dat je zoektocht moet aanpassen, bijvoorbeeld omdat je in een artikel een term tegenkomt die je nog aan je zoekvraag moet toevoegen. Dit zijn de gestreepte pijlen in het diagram. Dit spel van zoeken, aanpassen, en opnieuw zoeken maakt dat het vinden van informatie geen rechtlijnig proces is, en het ook nodig is om daar voldoende tijd voor vrij te maken. 
+Het is altijd mogelijk dat je zoekopdracht moet aanpassen, bijvoorbeeld omdat je in een artikel een term tegenkomt die je nog wilt toevoegen. Dit zijn de gestreepte pijlen in het diagram. Dit spel van zoeken, aanpassen, en opnieuw zoeken maakt dat het vinden van informatie geen rechtlijnig proces is, en het ook nodig is om daar voldoende tijd voor vrij te maken. 
 ---
 name: tips
 # Finding information: Tips &amp; tricks
@@ -609,10 +624,13 @@ template: tips
 ???
 Tot slot een aantal tips, waarvan er een paar al eerder genoemd zijn.
 
-1. Informatie zoeken gaat zelden rechtlijnig. Vaker moet je je zoekvraag aanpassen aan nieuwe bevindingen. Zorg dat je daar rekening mee houdt, en voldoende tijd voor vrij maakt.
-2. Het is eerg nuttig om een sorrt logboek bij te houden. Je hoeft daarin niet alle details op te nemen, maar het is wel handig om terug te kunnen vinden wat je uiteindelijke zoekvraag precies was, en hoe je daartoe gekomen bent. Sommige zoekmachines houden een geschiedenis bij als je een persoonlijk account aanmaakt.
-3. De methodes die we besproken hebben werken in bijna alle zoekmachines, maar er kunnen kleine verschillen zijn. Als e resultaten anders zijn dan je had verwacht, kun je de handleiding raadplegen.
-4. Tot slot: het is in academisch werk geen enkel probleem om informatie uit ander werk te 'stelen', maar zorg dat je vingerafdrukken achterlaat in de vorm van referenties. Doe je dat niet, dan pleeg je plagiaat, en daarmee kan je serieus in de problemen komen.
+1. Informatie zoeken gaat zelden rechtlijnig. Vaker moet je je zoekvraag aanpassen aan nieuwe bevindingen. Zorg dat je daar rekening mee houdt, en er voldoende tijd voor vrij maakt.
+
+2. Het is erg nuttig om een soort logboek bij te houden. Je hoeft daarin niet alle details op te nemen, maar het is wel handig om terug te kunnen vinden wat je uiteindelijke zoekvraag precies was, en hoe je daartoe gekomen bent. Sommige zoekmachines houden een geschiedenis bij als je een persoonlijk account aanmaakt.
+
+3. De methodes die we besproken hebben werken in bijna alle zoekmachines, maar er kunnen kleine verschillen zijn. Als de resultaten anders zijn dan je had verwacht, kun je de handleiding raadplegen.
+
+4. Tot slot: het is in academisch werk geen enkel probleem om informatie uit ander werk te 'stelen', maar zorg wel dat je vingerafdrukken achterlaat, in de vorm van referenties. Doe je dat niet, dan pleeg je plagiaat, en daarmee kan je serieus in de problemen komen.
 
 ---
 background-image:url("img/lost-at-sea.png")

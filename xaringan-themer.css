@@ -315,3 +315,11 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   float: right;
   text-align: left;
 }
+.inverse .takeaways {
+  position: absolute;
+  width: 65%;
+  bottom: 60px;
+  right: 20px;
+  padding-right: 4em;
+  text-align: left;
+}
