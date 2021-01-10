@@ -107,13 +107,13 @@ style_mono_accent(
 Welcome! Glad your here. These slides should mostly be self explanatory, but some guidelines for usage may be useful. 
 
 1. Links are formatted like [this](https://ub.vu.nl/nl/index.aspx). Many images are also links, although this may not be obvious from the formatting.
-2. On some slides, additional explanation is available. Use the controls as below to learn more.
+2. On some slides, additional explanation is available. Use the audio controls to learn more. <audio controls>
+  <source src="audio/1 intro.ogg" type="audio/ogg">
+  <source src="audio/1 intro.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
-<!-- <audio controls> -->
-<!--   <source src="audio/test.ogg" type="audio/ogg"> -->
-<!--   <source src="audio/test.mp3" type="audio/mpeg"> -->
-<!-- Your browser does not support the audio element. -->
-<!-- </audio> -->
+3. Also check out this [online guide](https://libguides.vu.nl/a-all) for background information and some topics we will not discuss here.
 
 ???
 
@@ -128,7 +128,8 @@ class:inverse
 # Why do you need information?
 ---
 
-# Why do you need information?
+# Why do you need information? <audio controls><source src="audio/2 nut van informatie.ogg" type="audio/ogg"><source src="audio/2 nut van informatie.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
 <div class="card switch">
 <h2>Context</h2>
 <p>How does this work fit into other discussions?</p>
@@ -162,14 +163,14 @@ class:inverse
 
 # Where can you find information?
 
+
 <!-- <div class="takeaways"> -->
 <!-- <p>Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt is, hangt af van de vraag die je probeert te beantwoorden, en welke informatie je zoekt. Ook voor academisch werk kan je heel goed putten uit niet-academische bronnen, als je je maar bewust bent van de beperkingen.</p> -->
 <!-- </div> -->
-???
-Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt is, hangt af van de vraag die je probeert te beantwoorden, en welke informatie je zoekt. Ook voor academisch werk kan je heel goed putten uit niet-academische bronnen, als je je maar bewust bent van de beperkingen.
 ---
 
-# Where can you find information?
+# Where can you find information? <audio controls><source src="audio/3 bronnen van informatie.ogg" type="audio/ogg"><source src="audio/3 bronnen van informatie.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
 <span class="card small" style="top:48%;left:27%">Personal blogs, vlogs, etc</span>
 <span class="card small" style="top:35%;left:74%">Company websites</span>
 <span class="card small" style="top:26%;left:69%">(Inter)national organisations</span>
@@ -180,9 +181,11 @@ Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt
 <span class="card small" style="top:61%;left:26%">Social media</span>
 <span class="card small" style="top:29%;left:53%">Documentaries</span>
 <span class="card small" style="top:72%;left:51%">Academic studies</span>
+???
+Er zijn veel verschillende bronnen van informatie. Welke bron het meest geschikt is, hangt af van de vraag die je probeert te beantwoorden, en welke informatie je zoekt. Ook voor academisch werk kan je heel goed putten uit niet-academische bronnen, als je je maar bewust bent van de beperkingen.
 ---
 
-# Aspects of information
+# Aspects of information <audio controls><source src="audio/4 aspecten.ogg" type="audio/ogg"><source src="audio/4 aspecten.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 <div class="card list" style="margin-top:100px;margin-bottom:50px;">
     <h2>Time versus trust</h2>
@@ -214,7 +217,7 @@ Ten tweede is er de vraag van objectiviteit. Met welk doel wordt de informatie b
 
 ---
 
-# Where can you find information?
+# Where can you find information? <audio controls><source src="audio/5 tips voor bronnen.ogg" type="audio/ogg"><source src="audio/5 tips voor bronnen.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 <div class="card switch">
     <h2>Interesting topics & relevant discussions</h2>
@@ -248,14 +251,9 @@ class:inverse
 
 # Finding information<br>from different sources
 
-???
-
-In dit gedeelte gaan we verder in op het zoeken naar verschillende soorten informatie. We zullen ons beperken tot het zoeken naar informatie in kranten en tijdschriften, en het zoeken naar academische boeken en artikelen. Voor academisch werk worden deze soorten informatie het meest gebruikt. 
-
-We beginnen met het bespreken van verschillende zoekmachines en databases. Daarna gaan we verder met de zoekmethodes die je kunt gebruiken.
 ---
 
-# Finding information<br>from different sources
+# Finding information<br>from different sources <audio controls><source src="audio/6 verschillende bronnen.ogg" type="audio/ogg"><source src="audio/6 verschillende bronnen.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 <span class="card small" style="top:48%;left:27%">Personal blogs, vlogs, etc</span>
 <span class="card small" style="top:35%;left:74%">Company websites</span>
 <span class="card small" style="top:26%;left:69%">(Inter)national organisations</span>
@@ -266,7 +264,10 @@ We beginnen met het bespreken van verschillende zoekmachines en databases. Daarn
 <span class="card small" style="top:61%;left:26%">Social media</span>
 <span class="card small" style="top:29%;left:53%">Documentaries</span>
 <span class="card small highlight" style="top:72%;left:51%">Academic studies</span>
+???
+In dit gedeelte gaan we verder in op het zoeken naar verschillende soorten informatie. We zullen ons beperken tot het zoeken naar informatie in kranten en tijdschriften, en het zoeken naar academische boeken en artikelen. Voor academisch werk worden deze soorten informatie het meest gebruikt. 
 
+We beginnen met het bespreken van verschillende zoekmachines en databases. Daarna gaan we verder met de zoekmethodes die je kunt gebruiken.
 ---
 layout: false
 
@@ -291,23 +292,12 @@ layout: false
 </div>
 
 ---
-name: template-nexis
-
-# Finding information in<br>magazines & newspapers
-
-<div class="card list">
-    <h2>Options</h2>
-    <p>Browse the paper</p>
-    <p>Search the website</p>
-    <p>Search Nexis Uni</p>
-</div>
-
----
 name:nexis
+# Magazines & newspapers: Nexis Uni <audio controls><source src="audio/7 nexis uni.ogg" type="audio/ogg"><source src="audio/7 nexis uni.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
-# Nexis Uni
-
-<a href="http://linker2.worldcat.org/?jHome=https%3A%2F%2Fvu-nl.idm.oclc.org%2Flogin%3Furl%3Dhttp%3A%2F%2Fwww.nexisuni.com&linktype=best">![](img/nexis-uni.png)</a>
+<div style="display:flex; justify-content:center; width: 100%; align-items:center;">
+<a href="http://linker2.worldcat.org/?jHome=https%3A%2F%2Fvu-nl.idm.oclc.org%2Flogin%3Furl%3Dhttp%3A%2F%2Fwww.nexisuni.com&linktype=best"><img src="img/nexis-uni.png" style="width: 75%;"></a>
+</div>
 
 ???
 Nexis Uni is een zeer uitgebreide database, waarin je onder andere kan zoeken naar artikelen in kranten en tijdschriften, zowel in Nederlandse publicaties als internationale. Klik op de screenshot van de homepage om naar de webite te gaan.
@@ -331,7 +321,7 @@ These tutorials can help you find your way in Nexis Uni.
 
 ---
 
-# Finding academic publications
+# Academic publications <audio controls><source src="audio/8 academische zoekmachines.ogg" type="audio/ogg"><source src="audio/8 academische zoekmachines.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 <a href="#google">
     <img src="img/google-scholar.png" alt="Google Scholar logo" style="display:block;position:absolute;left:10%;top:25%;width:500;">
@@ -395,6 +385,7 @@ name:scopus
 </div>
 
 --
+<audio controls><source src="audio/9 scopus.ogg" type="audio/ogg"><source src="audio/9 scopus.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
 <img src="img/recommended.png" style="opacity:.7;width:20%;position:absolute;right:20%;top:30%;z-index:1;transform:rotate(355deg);">
 
@@ -423,6 +414,8 @@ class:inverse
 
 # How to search
 
+<audio controls><source src="audio/10 zoekmethodes.ogg" type="audio/ogg"><source src="audio/10 zoekmethodes.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
 ???
 
 In dit deel gaan we aan de slag met verschillende zoekmethodes die je kan gebruiken om te zoeken naar literatuur. De principes van die methode worden bij bijna elke zoekmachine gebruikt, al kunnen er verschillen zijn in de details.
@@ -433,7 +426,6 @@ Het doel van deze zoekmethodes is uiteindelijk om zoveel mogelijk relevante lite
 layout: true
 
 # How to search: &ldquo;building blocks&rdquo;
-
 
 ---
 <div class="pull-left">
@@ -446,6 +438,11 @@ layout: true
     <div class="card switch" style="width:100%;">
         <h2>Example:</h2>
         <p>How will <em>Brexit</em> affect <em>migration</em> patterns?</p>
+        <p><audio controls>
+        <source src="audio/11 building blocks.ogg" type="audio/ogg">
+        <source src="audio/11 building blocks.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio></p>
     </div>
 </div>
 
@@ -519,8 +516,9 @@ De crux van deze methode zit in het vinden van de juiste zoektermen. gebruik ter
 <div class="card list"><h2>Careful!</h2><p>Exact usage may differ between search engines!</p></div>
 ---
 layout:false
-name: snowball
-# How to search: &ldquo;snowball&rdquo;
+name: snowball 
+
+# How to search: &ldquo;snowball&rdquo; <audio controls><source src="audio/12 snowball.ogg" type="audio/ogg"><source src="audio/12 snowball.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 <div class="card switch">
 <h2>Backward snowball</h2>
 <p>Which articles were used for this research?</p>
@@ -544,7 +542,7 @@ De sneeuwbal methode kan erg handig zijn, maar er is wel een gevaar. Als je niet
 Wees dus voorzichtig met het gebruik van de snow ball methode. Je kan het bijvoorbeeld gebruiken om te checken of je geen belangrijke artikelen hebt gemist bij het zoeken met *building blocks*
 ---
 template:snowball
-<div style="position:absolute;width:100%; display:flex; justify-content:center;">
+<div style="position:absolute; width:100%; display:flex; justify-content:center;">
 <iframe src="https://giphy.com/embed/V0cSLsFbRO7SM" width="576" height="375" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><a href="https://giphy.com/gifs/V0cSLsFbRO7SM">&ensp;via GIPHY</a></p>
 </div>
@@ -558,11 +556,11 @@ template: snowball
 </div>
 
 ---
-# A suggested workflow
+# A suggested workflow <audio controls><source src="audio/13 workflow.ogg" type="audio/ogg"><source src="audio/13 workflow.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
-<div style="display:flex; justify-content:center; align-items: center;">
+<div style="width:100%; display:flex; justify-content:center; align-items: center;">
 <img src="img/workflow.svg" alt="A suggested workflow" width="80%">
-<div>
+</div>
 
 ???
 Je bent natuurlijke vrij om je eigen workflow te ontwikkelen, maar dit schema is misschien een goed startpunt. Begin met de building blocks methode. Scan vervolgens je resultaten op relevantie. Meestal is het al voldoende om het abstract en misschien nog de inleiding te lezen. Gebruik de snow ball methode voor enkele van de meest relevante artikelen om te checken of je misschien iets belangrijks gemist hebt. Scan je nieuwe resulaten opnieuw op relevantie, en lees daarna pas het volledige artikel goed. Deze workflow volgt de 'doorgetrokken' pijlen in het diagram.
@@ -570,7 +568,8 @@ Je bent natuurlijke vrij om je eigen workflow te ontwikkelen, maar dit schema is
 Het is altijd mogelijk dat je zoekopdracht moet aanpassen, bijvoorbeeld omdat je in een artikel een term tegenkomt die je nog wilt toevoegen. Dit zijn de gestreepte pijlen in het diagram. Dit spel van zoeken, aanpassen, en opnieuw zoeken maakt dat het vinden van informatie geen rechtlijnig proces is, en het ook nodig is om daar voldoende tijd voor vrij te maken. 
 ---
 name: tips
-# Finding information: Tips &amp; tricks
+# Tips &amp; tricks <audio controls><source src="audio/14 tips.ogg" type="audio/ogg"><source src="audio/14 tips.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+
 
 <div class="card switch" style="width:70%">
     <h2>Not a linear process</h2>
@@ -599,7 +598,7 @@ template: tips
 <span style="color:red;">Do not plagiarize!</span>
 ---
 
-# Finding information: more support
+# More support
 
 <div class="card switch">
     <h2 style="text-transform:lowercase;"><a href="https://ub.vu.nl">ub.vu.nl</a></h2>
